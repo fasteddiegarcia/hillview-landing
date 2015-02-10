@@ -1,0 +1,23 @@
+#contact {
+	width: 100%;
+}
+
+#testimonial {
+	background-image: url("../images/fallowpara.jpg");
+    background-position: center center;
+}
+
+#promotion {
+	background-image: url("../images/bobcatpara.jpg");
+    background-position: center center;
+}
+
+#newheroimage {
+	background-position: center center;
+    background-image: url("../images/slider/1122x601LPage.jpg");
+}
+
+.carousel-inner {
+	background-position: center center;
+}
+

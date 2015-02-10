@@ -20,7 +20,7 @@ jQuery(function($) {'use strict',
 	function parallaxInit() {
 		
 			$("#services").parallax("50%", 0.3);
-			$("#promotion").parallax("50%", 0.3);
+			/*$("#promotion").parallax("50%", 0.3);*/
 			$("#promotion-two").parallax("50%", 0.3);
 			$("#testimonial").parallax("50%", 0.3);
 		
@@ -157,7 +157,7 @@ $('#portfolio-single-wrap').on('click','.close-folio-item',function(){
 	$("#portfolio-single").slideUp(1000);
 });
 
-
+/*
 // Google Map Customization
 (function(){
 
@@ -236,4 +236,4 @@ $('#portfolio-single-wrap').on('click','.close-folio-item',function(){
 	});
 
 	map.setStyle("map_style");
-}());
+}());*/
