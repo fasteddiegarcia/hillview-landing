@@ -830,7 +830,7 @@ font-weight: 400
 
 #promotion {
   padding: 200px 0;
-  background-image: url("../images/promotion.jpg");
+  /*background-image: url("../images/promotion.jpg");*/
 }
 
 #promotion-two {
@@ -1038,7 +1038,7 @@ font-weight: 400
 **************************/
 
 #testimonial{
-  background-image: url("../images/city.jpg");
+  /*background-image: url("../images/city.jpg");*/
   padding: 200px 0;
 }
 
