@@ -20,7 +20,7 @@ jQuery(function($) {'use strict',
 	function parallaxInit() {
 		
 			$("#services").parallax("50%", 0.3);
-			/*$("#promotion").parallax("50%", 0.3);*/
+			$("#promotion").parallax("50%", 0.3);
 			$("#promotion-two").parallax("50%", 0.3);
 			$("#testimonial").parallax("50%", 0.3);
 		
