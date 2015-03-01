@@ -3,18 +3,18 @@
 }
 
 #testimonial {
-	background-image: url("../images/fallowpara.jpg");
+	background-image: url("../images/1400x551_parallax_fencefallow.jpg");
     background-position: center center;
 }
 
 #promotion {
-	background-image: url("../images/bobcatpara.jpg");
+	background-image: url("../images/1400x551_parallax_skyline.jpg");
     background-position: center center;
 }
 
 #newheroimage {
 	background-position: center center;
-    background-image: url("../images/slider/1122x601LPage.jpg");
+    background-image: url("../images/1400x551_hero_lightbulb.jpg");
 }
 
 .carousel-inner {
@@ -27,4 +27,55 @@
 
 h5 {
 	font-size: 20px;
+}
+
+.jumbo {
+	font-size: 90px;
+	font-family: "Open Sans", sans-serif;
+	font-weight: 800;
+}
+
+#header .navbar-nav.navbar-right li a {
+	font-size: 26px;
+	font-style: "Open Sans", sans-serif;
+}
+
+h1 {
+	font-size: 45px;
+}
+
+.features-nav .media-content h3 {
+	color: #fff;
+	font-size: 30px;
+}
+
+.features-nav .media-content p {
+	color: #fff;
+	font-size: 25px;
+}
+
+.promotion h2 {
+	font-size: 37px;
+}
+
+h2.title {
+	color: #fff;
+}
+
+.testimonial h2 {
+	font-size: 40px;
+}
+
+#contact .contact-form input {
+	color: #fff;
+	font-size: 23px;
+}
+
+#our-team h3 {
+	font-size: 25px;
+	color: #fff;
+}
+
+#contact .contact-form textarea {
+	font-size: 25px;
 }
