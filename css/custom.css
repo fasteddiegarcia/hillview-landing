@@ -3,7 +3,7 @@
 }
 
 #testimonial {
-	background-image: url("../images/1400x551_parallax_fencefallow.jpg");
+	background-image: url("../images/1400x551_parallax_fencefallow3.jpg");
     background-position: center center;
 }
 
@@ -33,6 +33,7 @@ h5 {
 	font-size: 90px;
 	font-family: "Open Sans", sans-serif;
 	font-weight: 800;
+	text-shadow: 0 0 10px #757575;
 }
 
 #header .navbar-nav.navbar-right li a {
@@ -78,4 +79,13 @@ h2.title {
 
 #contact .contact-form textarea {
 	font-size: 25px;
+}
+
+.team-member h4 {
+	font-size: 25px;
+	font-weight: 600;
+}
+
+.carousel-caption {
+	text-shadow: 0 0 100px #000000;
 }
